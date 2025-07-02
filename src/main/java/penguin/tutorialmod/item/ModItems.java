@@ -23,5 +23,5 @@ public class ModItems {
             fabricItemGroupEntries.add(PINK_GARNET);
         });
     }
-
+//dasdfasdfasd
 }
